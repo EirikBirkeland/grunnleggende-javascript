@@ -1,0 +1,23 @@
+Denne boken er en tilgjengelig innføring i JavaScript for de som foretrekker å først sette
+tenna i fungerende småprogrammer før de går inn i nærmere detalj.
+Begge tilnærminger har sine fordeler.
+Noen foretrekker å lese seg grundig opp på teori først, mens andre har behov for å først bli fenget av et fascinerende sluttprodukt.
+
+S P I L L
+Kapittel 1: Gjettespill
+         - console.log
+         - «if»/«then»
+         - «let» og «const» (+ den foreldede «var»)
+         - manipulering av tall
+         - funksjoner
+         
+Kapittel 2: Adjektivfortelling
+         - Variabel-interpolering
+         - litteralobjekter og klasser
+         - 
+         
+Kapittel 3: Politisk korrekt «drug wars»-klone
+
+Kapittel 4: Pong!
+
+Kapittel 5: Roguelike ;)
